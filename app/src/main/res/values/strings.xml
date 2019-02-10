@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">YouTube Streamer</string>
+    <string name="base_url">https://www.last.fm/music/</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="song">Song</string>
+    <string name="search">Search</string>
 </resources>
